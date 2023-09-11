@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Libin Raj</h1>
 <h3 align="center">A passionate developer from India and love to learn new things</h3>
 
-- ⚡ Fun fact **I am good at makeing people laugh**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/_irregular_boy_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_irregular_boy_" height="30" width="40" /></a>
