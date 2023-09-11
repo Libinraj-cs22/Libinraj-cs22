@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Libin Raj</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India and love to learn new things</h3>
 
 - ⚡ Fun fact **I am good at makeing people laugh**
 
