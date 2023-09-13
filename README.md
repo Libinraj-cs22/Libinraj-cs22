@@ -8,7 +8,8 @@ i am web developer
 * ✉️  You can contact me at [libinraj963@gmail.com](mailto:libinraj963@gmail.com)
 * 🧠  I'm learning html, css, js
 * ⚡
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=libin-raj&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 <a href="https://www.github.com/libin-raj" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/libin-raj?logo=github&style=for-the-badge&color=ffffff&labelColor=000000" /></a>
 
