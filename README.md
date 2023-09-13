@@ -32,4 +32,4 @@ src="https://img.shields.io/github/followers/libin-raj?logo=github&style=for-the
 
 <a href="http://www.github.com/libin-raj"><img src="https://github-readme-streak-stats.herokuapp.com/?user=libin-raj&stroke=ffffff&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/libin-raj"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=libin-raj&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/libin-raj"><img src="https://github-readme-activity-graph.vercel.app/graph?username=libin-raj&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
